@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Admin",
+      "telephone": "89601953828",
+      "email": "admin@gmail.com",
+      "password": "12345678"
+    },
+    {},
+    {
+      "fullName": "",
+      "telephone": "",
+      "email": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "fullName": "",
+      "telephone": "",
+      "email": "",
+      "password": "",
+      "id": 3
+    }
+  ]
+}
