@@ -7,7 +7,6 @@
       "email": "admin@gmail.com",
       "password": "12345678"
     },
-    {},
     {
       "fullName": "",
       "telephone": "",
@@ -21,6 +20,27 @@
       "email": "",
       "password": "",
       "id": 3
+    },
+    {
+      "fullName": "eqwqwe",
+      "telephone": "12314",
+      "email": "wefrsdf@ewfs34",
+      "password": "123213213",
+      "id": 4
+    },
+    {
+      "fullName": "asasd",
+      "telephone": "asdasdasd",
+      "email": "asdasdasda@dasdas",
+      "password": "sdasdasdasd",
+      "id": 5
+    },
+    {
+      "fullName": "asd",
+      "telephone": "asdas",
+      "email": "wefrsdf@ewfs34",
+      "password": "1234",
+      "id": 6
     }
   ]
 }

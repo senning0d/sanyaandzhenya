@@ -11,3 +11,13 @@
 .imp{
     display: flex;
 }
+.admin_navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.left_admin_navbar{
+    display: flex;
+}
+.home_page{
+    display: flex;
+}
